@@ -150,5 +150,54 @@
             </div>
         </div>
     </section>
+
+    <section class="Whychooseus-section">
+        <div class="auto-container">
+            <div class="sec-title text-center">
+                <div class="sub-title text-center">Why Choose Us</div>
+                <h2>We Aim to Contribute Well to <br>  Your Company Growth</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-6 why-choose-block">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
+                        <div class="icon"><span class="count">01</span><i class="flaticon-shield"></i></div>
+                        <div class="content">
+                            <h4>Safety</h4>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 why-choose-block">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
+                        <div class="icon"><span class="count">02</span><i class="flaticon-delivery"></i></div>
+                        <div class="content">
+                            <h4>Trust</h4>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 why-choose-block">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
+                        <div class="icon"><span class="count">03</span><i class="flaticon-24-hours"></i></div>
+                        <div class="content">
+                            <h4>Reduced Risk  <br> &amp; <br> Speed To Market</h4>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 why-choose-block">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
+                        <div class="icon"><span class="count">04</span><i class="flaticon-24-hours"></i></div>
+                        <div class="content">
+                            <h4>Productivity <br> &amp; <br> Quality</h4>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
   </body>
 </html>
