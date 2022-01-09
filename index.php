@@ -6,7 +6,8 @@
     <title><?php echo $setting['site_name'];?>SchedGlobal</title>
   </head>
   <body>
-  <div class="swiper-container banner-slider">
+    <section class="banner-section">
+        <div class="swiper-container banner-slider">
             <div class="swiper-wrapper">
                 <!-- Slide Item -->
                 <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-1.jpg);">
@@ -55,6 +56,14 @@
                 </div>
             </div>
         </div>
+        <div class="banner-slider-nav style-two">
+            <div class="banner-slider-control banner-slider-button-prev"><span><i class="far fa-angle-left"></i>Prev</span></div>
+            <div class="banner-slider-control banner-slider-button-next"><span>Next<i class="far fa-angle-right"></i></span> </div>
+        </div>
+    </section>
+    <section class="services-section style-two">
+        
+    </section>
 
   </body>
 </html>
