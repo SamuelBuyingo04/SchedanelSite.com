@@ -1,4 +1,20 @@
 <?php
+    include "admin/conn.php";
+
+    //fetch settings
+    $settings = mysqli_query($con,"SELECT * FROM settings");
+    $setting  = mysqli_fetch_array($settings);
+
+
+    // fetch testimonials
+    $testi = mysqli_query($con,"SELECT * FROM testimonials");
+
+    //fetch blog
+    $blog = mysqli_query($con,"SELECT * FROM blog");
+
+
+     //fetch services
+    $services = mysqli_query($con,"SELECT * FROM services ORDER BY id DESC LIMIT 3");
 
 ?>
 <html lang="en">
@@ -197,6 +213,108 @@
             </div>
         </div>
     </section>
+
+    <section class="work-process-section">
+        <div class="bg" style="background-image: url(assets/images/background/bg-2.jpg);"></div>
+        <div class="auto-container">
+            <div class="sec-title text-center light">
+                <div class="sub-title text-center">How We Work</div>
+                <h2>We Aim to Contribute Well to <br> Your Company Growth</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-6 work-process-block">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
+                        <div class="count">01</div>
+                        <div class="icon"><span class="flaticon-shipping"></span></div>
+                        <h4>Managemnet <br> Support</h4>
+                        
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 work-process-block">
+                    <div class="inner-box wow fadeInDwon" data-wow-duration="1500ms">
+                        <div class="count">02</div>
+                        <div class="icon"><span class="flaticon-warehouse"></span></div>
+                        <h4>Camp <br> Management</h4>
+                        
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 work-process-block">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
+                        <div class="count">03</div>
+                        <div class="icon"><span class="flaticon-packing-list"></span></div>
+                        <h4>Catering in <br> Remote Site</h4>
+                       
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 work-process-block">
+                    <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
+                        <div class="count">04</div>
+                        <div class="icon"><span class="flaticon-delivery-1"></span></div>
+                        <h4>Logistcs <br> Supply Chain</h4>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="bottom-text">Simplifying Your Freight & Logistics Needs With a Personal Approach. <a href="contact.php"> Get In Touch</a></div>
+        </div>
+    </section>
+
+    <section class="testimonials-section">
+        <div class="auto-container">
+            <div class="sec-title text-center">
+                <div class="sub-title text-center">Testimonials</div>
+                <h2>1000+ Happy Customers Said</h2>
+            </div>
+            <div class="theme_carousel owl-theme owl-carousel">
+            <?php
+                while($row=mysqli_fetch_array($testi)){
+            ?>
+                <div class="testimonial-block"> 
+                    <div class="inner-box">
+                        <div class="text"><?php echo $row['descrip']; ?>
+                        </div>
+                        <div class="author-thumb">
+                            <img src="admin/images/testimonial/<?php echo $row['img']; ?>" alt="">
+                            <div class="quote"><span class="flaticon-right-quote"></span>
+                            </div>
+                        </div>
+                        <h4><?php echo $row['title']; ?></h4>
+                        <div class="designation"><?php echo $row['designation']; ?></div>
+                        <div class="rating">
+                            <span class="flaticon-star-1"></span>
+                            <span class="flaticon-star-1"></span>
+                            <span class="flaticon-star-1"></span>
+                            <span class="flaticon-star-1"></span>
+                            <span class="flaticon-star-1"></span>
+                        </div>
+                    </div>
+                </div>
+          <?php } ?>
+                <!-- End -->
+            </div>
+        </div>
+    </section>
+
+    <div class="scroll-to-top scroll-to-target" data-target="html"><span class="flaticon-right-arrow-6"></span></div>
+
+        <script src="assets/js/jquery.js"></script>
+        <script src="assets/js/popper.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/bootstrap-select.min.js"></script>
+        <script src="assets/js/jquery.fancybox.js"></script>
+        <script src="assets/js/isotope.js"></script>
+        <script src="assets/js/owl.js"></script>
+        <script src="assets/js/appear.js"></script>
+        <script src="assets/js/wow.js"></script>
+        <script src="assets/js/lazyload.js"></script>
+        <script src="assets/js/scrollbar.js"></script>
+        <script src="assets/js/TweenMax.min.js"></script>
+        <script src="assets/js/swiper.min.js"></script>
+        <script src="assets/js/jquery.polyglot.language.switcher.js"></script>
+        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+        <script src="assets/js/parallax-scroll.js"></script>
+
+        <script src="assets/js/script.js"></script>
 
     
   </body>
