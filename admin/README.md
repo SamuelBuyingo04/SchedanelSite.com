@@ -43,7 +43,7 @@ yarn add admin-lte@^3.0
 
 __Via Composer__
 ```bash
-composer require "andy_pare-feu/adminlte=~1.0"
+composer require "almasaeed2010/adminlte=~3.0"
 ```
 
 __Via Git__

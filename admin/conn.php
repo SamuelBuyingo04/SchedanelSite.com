@@ -8,7 +8,7 @@ $user = "root";
 
 $password = "";
 
-$dbname = "sched_db";
+$dbname = "schedDb";
 
 
 

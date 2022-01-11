@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `sched_db`
+-- Database: `schedDb`
 --
 
 -- --------------------------------------------------------
@@ -87,7 +87,7 @@ CREATE TABLE `blog` (
 --
 
 INSERT INTO `blog` (`id`, `title`, `category`, `descrip`, `img`, `url`, `date`, `status`) VALUES
-(4, 'Chinese Transporters overtaking Western  Market', 'Technology', '<h6><p style=\"margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify; font-family: \" open=\"\" sans\",=\"\" arial,=\"\" sans-serif;=\"\" font-size:=\"\" 14px;\"=\"\">China will overtake the US as the worldâ€™s biggest economy before the end of the decade after outperforming its rival during the global Covid-19 pandemic, according to a report.</p><p style=\"margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify; font-family: \" open=\"\" sans\",=\"\" arial,=\"\" sans-serif;=\"\" font-size:=\"\" 14px;\"=\"\">The Centre for Economics and Business Research said that it nowexpected the value of Chinaâ€™s economy when measured in dollars to exceed that of the US by 2028, half a decade sooner than it expected a year ago.</p><p style=\"margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify; font-family: \" open=\"\" sans\",=\"\" arial,=\"\" sans-serif;=\"\" font-size:=\"\" 14px;\"=\"\"><span style=\"color: inherit; font-family: inherit; font-size: 1rem;\">In its annual league table of the growth prospects of 193 countries, the UK-based consultancy group said China had bounced back quickly from the effects of Covid-19 and would grow by 2% in 2020, as the one major global economy to expand.</span><br></p><p style=\"margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify; font-family: \" open=\"\" sans\",=\"\" arial,=\"\" sans-serif;=\"\" font-size:=\"\" 14px;\"=\"\"><span style=\"color: inherit; font-family: inherit; font-size: 1rem;\">With the US expected to contract by 5% this year, China will narrow the gap with its biggest rival, the CEBR said. Overall, global gross domestic product is forecast to decline by 4.4% this year, in the biggest one-year fall since the second world war.</span><br></p></h6>', '1976955973news-27.jpg', '', 'Mon 08 Feb 2021', '0');
+(4, 'Congo Transport', 'Technology', '<h6><p style=\"margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify; font-family: \" open=\"\" sans\",=\"\" arial,=\"\" sans-serif;=\"\" font-size:=\"\" 14px;\"=\"\">Schedanel will overtake the client as the key for economy growth though its rival during the global Covid-19 pandemic, according to a report.</p><p style=\"margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify; font-family: \" open=\"\" sans\",=\"\" arial,=\"\" sans-serif;=\"\" font-size:=\"\" 14px;\"=\"\">The Centre for Economics and Business Research said that it nowexpected the value of Chinaâ€™s economy when measured in dollars to exceed that of the US by 2028, half a decade sooner than it expected a year ago.</p><p style=\"margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify; font-family: \" open=\"\" sans\",=\"\" arial,=\"\" sans-serif;=\"\" font-size:=\"\" 14px;\"=\"\"><span style=\"color: inherit; font-family: inherit; font-size: 1rem;\">In its annual league table of the growth prospects of 193 countries, the UK-based consultancy group said China had bounced back quickly from the effects of Covid-19 and would grow by 2% in 2020, as the one major global economy to expand.</span><br></p><p style=\"margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; text-align: justify; font-family: \" open=\"\" sans\",=\"\" arial,=\"\" sans-serif;=\"\" font-size:=\"\" 14px;\"=\"\"><span style=\"color: inherit; font-family: inherit; font-size: 1rem;\">With the US expected to contract by 5% this year, China will narrow the gap with its biggest rival, the CEBR said. Overall, global gross domestic product is forecast to decline by 4.4% this year, in the biggest one-year fall since the second world war.</span><br></p></h6>', '1976955973news-27.jpg', '', 'Mon 08 Feb 2021', '0');
 
 -- --------------------------------------------------------
 
@@ -294,8 +294,6 @@ CREATE TABLE `settings` (
   `email` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `phone` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `phone2` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
-  `phone3` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
-  `phone4` varchar(20) COLLATE utf8_unicode_ci DEFAULT NULL,
   `footer_logo` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
   `footer_desc` varchar(5000) COLLATE utf8_unicode_ci DEFAULT NULL,
   `facebook` varchar(2000) COLLATE utf8_unicode_ci DEFAULT NULL,
@@ -316,8 +314,8 @@ CREATE TABLE `settings` (
 -- Dumping data for table `settings`
 --
 
-INSERT INTO `settings` (`id`, `header_logo`, `email`, `phone`, `phone2`, `phone3`, `phone4`, `footer_logo`, `footer_desc`, `facebook`, `twitter`, `linkedin`, `instagram`, `youtube`, `address`, `city`, `state`, `country`, `pin`, `map`, `site_name`) VALUES
-(1, '1077930642754453333Logo 1-min.png', 'youremail@gmail.com', '+243 (0) 817970794', '+243 (0) 821080620', '+243 (0) 813906633','+256 (0) 704368743', '1328530813Logo 1.PNG', '', '#', '#', '#', '#', '#', '55 , ste A, Dover, DE 19901 USA', '', '', '', '', '                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3093.7963837922716!2d-75.52637848464192!3d39.15661257953152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c764aa67a3b055%3A0x3ae0e625add8fccf!2s8%20The%20Green%20STE%20A%2C%20Dover%2C%20DE%2019901%2C%20USA!5e0!3m2!1sen!2sin!4v1611844096495!5m2!1sen!2sin\" width=\"600\" height=\"490\" style=\"border:0; width: 100%\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>                                                                                                                                                                                                                                                                                                                                                                                                                                ', 'Poornima');
+INSERT INTO `settings` (`id`, `header_logo`, `email`, `phone`, `phone2`, `footer_logo`, `footer_desc`, `facebook`, `twitter`, `linkedin`, `instagram`, `youtube`, `address`, `city`, `state`, `country`, `pin`, `map`, `site_name`) VALUES
+(1, '1077930642754453333Logo 1-min.png', '+ 256 771 960 156', '+256 704 368 743', '+243 817 970 794', '1328530813Logo 1.PNG', '', '#', '#', '#', '#', '#', 'Luwafu , Makindye, Kampala, 2022 Uganda', '', '', '', '', '                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3093.7963837922716!2d-75.52637848464192!3d39.15661257953152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c764aa67a3b055%3A0x3ae0e625add8fccf!2s8%20The%20Green%20STE%20A%2C%20Dover%2C%20DE%2019901%2C%20USA!5e0!3m2!1sen!2sin!4v1611844096495!5m2!1sen!2sin\" width=\"600\" height=\"490\" style=\"border:0; width: 100%\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>                                                                                                                                                                                                                                                                                                                                                                                                                                ', 'Poornima');
 
 -- --------------------------------------------------------
 
@@ -368,9 +366,9 @@ CREATE TABLE `testimonials` (
 --
 
 INSERT INTO `testimonials` (`id`, `title`, `designation`, `descrip`, `img`, `url`, `date`, `status`) VALUES
-(28, 'Nathan Felix', 'Account Speaclist', 'I am highly impressed with the professionalism and passion of people in this warehouse very neat & clean.', '785969917author-1.jpg', NULL, 'Thu 28 Jan 2021', '0'),
-(29, 'Lillian Grace', 'VP, Green Valley Intenational', 'The staff is amazing! Very helpful and considerate with a sense of urgency &Loads are 99% on time.', '1606237998author-2.jpg', NULL, 'Thu 28 Jan 2021', '0'),
-(30, 'Roman Dexter', 'Business Man, Newyork, USA', 'I only use GLOBAL DIGITAL SYSTEM CORPORATION  for my shipping needs. My clients have all come to expect the excellent shipping.', '1528721535author-3.jpg', NULL, 'Thu 28 Jan 2021', '0');
+(28, 'KMS ', 'Kibali Mining Service', 'I am highly impressed with the professionalism and passion of people in this warehouse very neat & clean.', '785969917author-1.jpg', NULL, 'Thu 28 Jan 2021', '0'),
+(29, 'GCS', 'Doko, Durba-DRC', 'The staff is amazing! Very helpful and considerate with a sense of urgency &Loads are 99% on time.', '1606237998author-2.jpg', NULL, 'Thu 28 Jan 2021', '0');
+
 
 --
 -- Indexes for dumped tables
