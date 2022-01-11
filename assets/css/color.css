@@ -5,493 +5,493 @@
 
 a:hover,
 a {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .scroll-to-top:hover,
 .preloader-close,
 .search-popup .search-form fieldset input[type="submit"] {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .scroll-to-top {
-    color: #20e1e1;
-    border: 2px dashed #20e1e1;
+    color: #148f03;
+    border: 2px dashed #148f03;
 }
 
 .btn-style-one.style-two i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .btn-style-one.style-two:before {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .btn-style-one.style-two:hover {
-    border-color: #20e1e1;
+    border-color: #148f03;
 }
 
 .btn-style-one {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .header-top .social-icon li a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-top .location span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-top .phone-number i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-top .mail-address i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .main-menu .navigation>li:before {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .main-menu .navigation>li>a:before {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .main-menu .navigation>li>a:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .main-menu .navigation>li.current>a {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .main-menu .navigation>li>ul>li>a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .main-menu .navigation>li>ul>li>ul>li>a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-upper .navbar-right-info .sign-in a i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-upper #polyglotLanguageSwitcher a.current:link,
 .header-upper #polyglotLanguageSwitcher a.current:visited,
 .header-upper #polyglotLanguageSwitcher a.current:active {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-upper #polyglotLanguageSwitcher span.trigger:before {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .hidden-sidebar-close {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .contact-widget .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .banner-section .banner-slider-nav.style-two .banner-slider-button-next {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .left-panel .side-menu-nav span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .left-panel .option-box .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .left-panel .option-box .order-form-area .order-form .theme-btn i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .left-panel .option-box .btn-style-one:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .sec-title .sub-title {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .sec-title .sub-title:before {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .sec-title .sub-title:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .service-block-one .link:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .service-block-one .link i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .service-block-one .inner-box:hover .image:after {
-    border-color: #20e1e1;
+    border-color: #148f03;
 }
 
 .readmore-link:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .readmore-link i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .about-section .icon-box:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .about-section .icon-box:hover .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .why-choose-block .inner-box .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .why-choose-block .inner-box:hover .icon:before {
-    border-color: #20e1e1;
+    border-color: #148f03;
 }
 
 .why-choose-block .inner-box:hover .icon:after {
-    background-color: #20e1e1;
-    border-color: #20e1e1;
+    background-color: #148f03;
+    border-color: #148f03;
 }
 
 .why-choose-block .inner-box .count {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .work-process-block .inner-box:hover .count:before {
-    border: 20px dotted #20e1e1;
+    border: 20px dotted #148f03;
 }
 
 .work-process-block .inner-box:hover .count {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .work-process-block .icon {
-    border: 2px solid #20e1e1;
-    color: #20e1e1;
+    border: 2px solid #148f03;
+    color: #148f03;
 }
 
 .work-process-block .icon:before {
-    border-bottom-color: #20e1e1;
+    border-bottom-color: #148f03;
 }
 
 .industries-covered .text-block .content .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .industries-covered .owl-theme .owl-nav .owl-prev:hover:after,
 .industries-covered .owl-theme .owl-nav .owl-next:hover:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .industries-covered .owl-theme .owl-nav .owl-prev:hover,
 .industries-covered .owl-theme .owl-nav .owl-next:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .pricing-block .content li:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .pricing-block .link-box .theme-btn:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .pricing-block.style-two .category-wrapper:before {
-    background: #d64e0f;
+    background: #ba0202;
 }
 
 .pricing-block.style-two .category-wrapper:after {
-    background: #d64e0f;
+    background: #d60f0f;
 }
 
 .pricing-block.style-two .category {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .facts-section .counter-column .count-text {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .testimonial-block .quote {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .testimonial-block .rating {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-one .date {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .news-block-one .category {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-one h3 a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-one .overlay .readmore-link:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-one .overlay .readmore-link:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .branches-section .single-info h4 span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .branches-section .owl-theme .owl-nav .owl-prev:hover:after,
 .branches-section .owl-theme .owl-nav .owl-next:hover:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .branches-section .owl-theme .owl-nav .owl-prev:hover,
 .branches-section .owl-theme .owl-nav .owl-next:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .newsletter-section h3 span {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .newsletter-form .btn-style-one i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .newsletter-form .btn-style-one:before {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .contact-widget.style-two .text span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .contact-widget.style-two .social-icon li a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .links-widget ul li a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .main-header.header-style-two .header-top {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .header-left-option .option-box:hover h4 i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-left-option .option-box .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-left-option .option-box .order-form-area .order-form .theme-btn i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-left-option .option-box .btn-style-one:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .banner-section .banner-slider-nav.style-three .banner-slider-button-prev:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .banner-section .banner-slider-nav.style-three .banner-slider-button-next:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .banner-slider-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-    border-color: #20e1e1;
+    border-color: #148f03;
 }
 
 .style-two.footer-bottom .bg:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .about-widget .readmore-link:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .about-widget .download-pdf a {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .footer-top .newsletter-form-two button:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-two .category {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-two .date {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .testimonial-block-two .designation {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .testimonial-block-two .quote {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .testimonial-block-two .inner-box:after {
-    border: 2px dashed #20e1e1;
+    border: 2px dashed #148f03;
 }
 
 .whychooseus-block-two .icon i {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .whychooseus-block-two .inner-box:hover .icon:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .whychooseus-block-two .inner-box:before {
-    border: 2px dashed #20e1e1;
+    border: 2px dashed #148f03;
 }
 
 .project-block .link-btn a {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .project-block .link-btn a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .project-block .category {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .work-process-block-two .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .work-process-block-two .inner-box:hover .count {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .getaquote-section .investor {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .getaquote-section.style-one .getaquote-form .form-group .theme-btn {
-    border: 2px solid #20e1e1;
+    border: 2px solid #148f03;
 }
 
 .getaquote-section.style-one .getaquote-form .form-group .theme-btn:before {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .service-block .overlay .link a {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .service-block .content .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .facts-section-two .count-box {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .facts-section-two .content:after {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .about-section-two .icon-box:hover:before {
-    border: 2px dashed #20e1e1;
+    border: 2px dashed #148f03;
 }
 
 .about-section-two .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .about-section-two .designation {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .about-section-two .quote {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-two h3 a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .readmore-link.style-two:before {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .header-top .sign-in a i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-top .links a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-style-three .header-top .sign-in a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-upper .contact-info-two .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .services-section-two .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .services-section-two .owl-theme .owl-nav .owl-next:hover:after {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .facts-section-three .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .facts-section-three .inner:hover .icon {
-    background-color: #20e1e1;
-    border-color: #20e1e1;
+    background-color: #148f03;
+    border-color: #148f03;
 }
 
 .facts-section-three .count-box {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .about-section-three .link a:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .about-section-three .link a:hover i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .skills .skill-item .skill-bar .bar-inner .bar:before {
@@ -499,658 +499,658 @@ a {
 }
 
 .video-section h5 a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .video-section h5 a:before {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .video-section h5 a:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .team-blcok .designation {
-    border-left: 3px solid #20e1e1;
+    border-left: 3px solid #148f03;
 }
 
 .team-blcok .social-icon {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .getaquote-section.style-two .social-icon li a:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .pricing-block-two .price {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .pricing-block-two .link-box .theme-btn {
-    border: 2px solid #20e1e1;
+    border: 2px solid #148f03;
 }
 
 .pricing-block-two .link-box .theme-btn i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .pricing-block-two .link-box .theme-btn:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .testimonial-block-three .quote {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .testimonial-block-three .rating span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .testimonials-section-three .testimonial-slider-button-next:hover {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .testimonials-section-three .testimonial-slider-button-prev:hover {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .contact-info-block ul li a {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .main-footer.style-three .links-widget ul li a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-widget .post .content h4 a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-widget .post .content .date i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .about-widget-two .list li:before {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .footer-bottom.style-three .social-icon li a:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .footer-bottom.style-three .copyright-text a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-style-four .header-top .links a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-upper .contact-info-three .icon {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .service-block-three .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .service-block-three .link a {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .services-section-three .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .services-section-three .owl-theme .owl-nav .owl-next:hover:after {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .btn-style-one.style-2 i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .btn-style-one.style-2:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .about-section-two .skills .skill-item .skill-bar .bar-inner .bar {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .about-section-two .skills .skill-item .skill-bar .bar-inner .bar:before {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .whychooseus-section-three .counter-column .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .whychooseus-section-three .counter-column .count-box {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .whychooseus-block-three .inner-box:before {
-    border: 2px dashed #20e1e1;
+    border: 2px dashed #148f03;
 }
 
 .team-section .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .team-section .owl-theme .owl-nav .owl-next:hover:after {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .project-block-two .category {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .project-block-two .link-btn {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .testimonial-block-four .author-thumb:before {
-    border: 3px solid #20e1e1;
+    border: 3px solid #148f03;
 }
 
 .testimonial-block-four .quote {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .testimonial-block-four .designation {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .testimonial-block-four .rating span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .testimonials-section-four .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .testimonials-section-four .owl-theme .owl-nav .owl-next:hover:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-three .date {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .news-block-three .category i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-three h3 a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-section-three .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .news-section-three .owl-theme .owl-nav .owl-next:hover:after {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .cta-section .wrapper-box:before {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .main-footer.style-four .links-widget ul li a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .about-widget-three .readmore-link:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .footer-bottom.style-four .social-icon li a:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .industries-covered-two .nav-tabs.tab-btn-style-one li a .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .industries-covered-two .nav-tabs.tab-btn-style-one li a.active {
-    background: #20e1e1;
-    border-color: #20e1e1;
+    background: #148f03;
+    border-color: #148f03;
 }
 
 .industries-covered-two .theme-btn-two:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .industries-covered-two .theme-btn-two i {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .industries-covered-two .owl-theme .owl-nav .owl-prev:hover:after,
 .industries-covered-two .owl-theme .owl-nav .owl-next:hover:after {
     opacity: 1;
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .contact-info-section-two .owl-theme .owl-nav .owl-prev:hover:after,
 .contact-info-section-two .owl-theme .owl-nav .owl-next:hover:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .testimonials-section-two .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .testimonials-section-two .owl-theme .owl-nav .owl-next:hover:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .pagination li a:hover i,
 .pagination li a:hover,
 .pagination li a.active {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .widget_categories ul li a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .widget_categories span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-widget-two .post:hover .content .date {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .tag-cloud-widget ul li a:hover {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .advertisement-widget .theme-btn:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .advertisement-widget .theme-btn i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-four .date {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .news-block-four .category {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-four h3 a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-four .post-meta li a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-four .social-links-wrapper:hover .icon {
-    background: #20e1e1;
-    border-color: #20e1e1;
+    background: #148f03;
+    border-color: #148f03;
 }
 
 .news-block-four .social-links li a:hover {
-    background-color: #20e1e1;
-    border-color: #20e1e1;
+    background-color: #148f03;
+    border-color: #148f03;
 }
 
 .news-block-four .link-box .theme-btn i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-block-four .link-box .theme-btn:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .blog-sidebar.style-two .widget {
-    border-top: 5px solid #20e1e1;
+    border-top: 5px solid #148f03;
 }
 
 .blog-single-post blockquote .quote-icon {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .blog-single-post .tag a:hover {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .post-pagination .post:hover .content .date {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-section .author-box h5 a {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .comments-area .comment-box .reply-comment-btn {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-section .comment-form .theme-btn i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .news-section .comment-form .theme-btn:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .header-style-five .header-upper .language button.btn.dropdown-toggle {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .header-style-five .header-upper .bootstrap-select .dropdown-toggle .filter-option:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .contact-info-section-two .tab-content h4 span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .contact-info-section-two .icon-box .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .contact-form .form-group .theme-btn:before {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .services-section.style-two .owl-theme .owl-nav .owl-prev:hover:after,
 .services-section.style-two .owl-theme .owl-nav .owl-next:hover:after {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .cta-section-two .theme-btn:before {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .services-section-two.style-two .service-block-two .image-box .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .service-sidebar .widget {
-    border-top: 5px solid #20e1e1;
+    border-top: 5px solid #148f03;
 }
 
 .widget_categories-two ul li.active a {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .widget_categories-two ul li.active:before {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .widget_categories-two li.active i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .widget_categories-two ul li.active {
-    border-color: #20e1e1;
+    border-color: #148f03;
 }
 
 .widget_categories-two ul li a:hover {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .getaquote-widget .form-group .theme-btn:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .getaquote-widget .form-group .theme-btn i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .service-details .text-block {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .service-details .counter-column .count-box {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .service-details .features .icon-box:hover:before {
-    border: 2px dashed #20e1e1;
+    border: 2px dashed #148f03;
 }
 
 .service-details .features .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .testimonial-block-five .quote {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .testimonial-block-five .designation {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .testimonial-block-five .rating span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .getaquote-section.style-four .getaquote-form .form-group .theme-btn:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .getaquote-section.style-four .getaquote-form .form-group .theme-btn i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .getaquote-section .note span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .accordion-box .block .acc-btn.active .icon-outer {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .accordion-box .block .acc-btn.active strong {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .faq-section .nav-tabs.tab-btn-style-one .nav-link.active h4 i,
 .faq-section .nav-tabs.tab-btn-style-one .nav-link:hover h4 i {
     transform: rotate(90deg);
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .faq-section .nav-tabs.tab-btn-style-one .nav-link.active,
 .faq-section .nav-tabs.tab-btn-style-one .nav-link:hover {
     background: #fff;
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .faq-section .nav-tabs.tab-btn-style-one .nav-link.active h4,
 .faq-section .nav-tabs.tab-btn-style-one .nav-link:hover h4 {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .faq-section .nav-tabs.tab-btn-style-one .nav-link:before {
-    border: 2px solid #20e1e1;
+    border: 2px solid #148f03;
 }
 
 .filter-tabs {
-    border: 2px dashed #20e1e1;
+    border: 2px dashed #148f03;
 }
 
 .project-block-three .category {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .project-block-three .link-btn a {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .project-block-three .link-btn a:hover {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .projects-section-four .theme-btn:before {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .projects-section-four .theme-btn i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .related-projects .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .related-projects .owl-theme .owl-nav .owl-next:hover:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .project-details h5 {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .banner-section-two .link-box a i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .banner-section-two .link-box a {
-    border: 2px solid #20e1e1;
-    color: #20e1e1;
+    border: 2px solid #148f03;
+    color: #148f03;
 }
 
 .banner-section-two .left-panel .option-box .icon {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .history-section .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .history-section .owl-theme .owl-nav .owl-next:hover:after {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .banner-section-two .text-block h4 {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .page-title .content-box .bread-crumb.style-two li.active a,
 .page-title .content-box .bread-crumb.style-two li:hover a {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .page-title .content-box .bread-crumb.style-two li.active a i,
 .page-title .content-box .bread-crumb.style-two li:hover a i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .page-title .content-box .bread-crumb.style-two li a:before {
-    border: 2px solid #20e1e1;
+    border: 2px solid #148f03;
 }
 
 .contact-info-section-three .nav-tabs.tab-btn-style-one .active h4 {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .contact-info-block-two ul li a span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .bottom-content .text span {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .history-block .inner-box:hover {
-    border-color: #20e1e1;
+    border-color: #148f03;
 }
 
 .history-block .date {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .history-block .date:before {
-    border-bottom: 2px dashed #20e1e1;
+    border-bottom: 2px dashed #148f03;
 }
 
 .history-section .nav-tabs.tab-btn-style-one li.nav-item:after {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .who-we-are-section .experience-year .icon {
-    border: 2px dashed #20e1e1;
-    color: #20e1e1;
+    border: 2px dashed #148f03;
+    color: #148f03;
 }
 
 .who-we-are-section .experience-year h3 {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .who-we-are-section .experience-year h5 {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .who-we-are-section .theme-btn:before {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .who-we-are-section .theme-btn i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .who-we-are-section .designation {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .who-we-are-section .video-btn a {
-    background-color: #20e1e1;
+    background-color: #148f03;
 }
 
 .whychooseus-block-four .icon {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .whychooseus-block-four .icon i {
-    background: #20e1e1;
+    background: #148f03;
 }
 
 .certificate-block .inner-box:hover .image:before {
-    border-color: #20e1e1;
+    border-color: #148f03;
 }
 
 .certificate-section .owl-theme .owl-nav .owl-next:hover:after,
 .certificate-section .owl-theme .owl-nav .owl-prev:hover:after {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link.active,
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link:hover {
-    color: #20e1e1;
-    border-color: #20e1e1;
+    color: #148f03;
+    border-color: #148f03;
 }
 
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link.active h4,
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link:hover h4 {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link.active i,
 .statement-section .nav-tabs.tab-btn-style-one .nav-item .nav-link:hover i {
-    color: #20e1e1;
+    color: #148f03;
 }
 
 .filter-tabs li.active {
-    color: #20e1e1;
+    color: #148f03;
 }

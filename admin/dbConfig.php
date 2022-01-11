@@ -1,8 +1,8 @@
 <?php
 // Database configuration
 $dbHost     = "localhost";
-$dbUsername = "andy_parefeu";
-$dbPassword = "Sc#d@n3l";
+$dbUsername = "andy-parefeu";
+$dbPassword = "Hello@123";
 $dbName     = "actwebsp_39";
 
 // Create database connection

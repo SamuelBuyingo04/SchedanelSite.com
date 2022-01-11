@@ -6,41 +6,47 @@
     $setting  = mysqli_fetch_array($settings);
 ?>
 
-<header class="main-header header-style-one">
-    <div class="header-top">
-        <div class="auto-container">
-            <div class="inner-container">
-                <div class="left-column">
-                    <ul class="social-icon">
-                    <li><a target="blank" href="<?php echo $setting['facebook']; ?>"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a target="blank" href="<?php echo $setting['twitter']; ?>"><i class="fab fa-twitter"></i></a></li>
-                        <li><a target="blank" href="<?php echo $setting['instagram']; ?>"><i class="fab fa-instagram"></i></a></li>
-                        <li><a target="blank" href="<?php echo $setting['youtube']; ?>"><i class="fab fa-youtube"></i></a></li> 
-                    </ul>
-                </div>
-                <div class="right-column">
-                    <div class="location">
-                    <span class="flaticon-cursor"></span>
+
+ <!-- Main Header -->
+    <header class="main-header header-style-one">
+
+        <!-- Header Top -->
+        <div class="header-top">
+            <div class="auto-container">
+                <div class="inner-container">
+                    <div class="left-column">
+                        <ul class="social-icon">
+                            <li><a target="blank" href="<?php echo $setting['facebook']; ?>"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a target="blank" href="<?php echo $setting['twitter']; ?>"><i class="fab fa-twitter"></i></a></li>
+                            <li><a target="blank" href="<?php echo $setting['instagram']; ?>"><i class="fab fa-instagram"></i></a></li>
+                            <li><a target="blank" href="<?php echo $setting['youtube']; ?>"><i class="fab fa-youtube"></i></a></li>
+                        </ul>
+                        
+                    </div>
+                    <div class="right-column">
+                        <div class="location">
+                            <span class="flaticon-cursor"></span>
                             <form action="#" class="location-switcher">
                                 <select class="selectpicker">
                                     <option value="1">Uganda</option>
                                     <option value="2">Congo DRC</option>
                                     
                                 </select>
-                            </form>   
+                            </form>
+                        </div>
+                        <div class="phone-number"><i class="flaticon-calling"></i><a href="tel:<?php  echo $setting['phone']; ?>"></a><?php  echo $setting['phone']; ?></div>
                     </div>
-                    <div class="phone-number"><i class="flaticon-calling"></i><a href="tel:<?php  echo $setting['phone']; ?>"></a><?php  echo $setting['phone']; ?><</div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="header-upper">
+        <!-- Header Upper -->
+        <div class="header-upper">
             <div class="auto-container">
                 <div class="inner-container">
                     <!--Logo-->
                     <div class="logo-box">
-                        <div class="logo"><a href="index.php"><img src="assets/images/schedlogo.png" alt=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="assets/images/klogo.png" alt=""></a></div>
                     </div>
                     <div class="right-column">
                         <!--Nav Box-->
@@ -82,14 +88,16 @@
                 </div>
             </div>
         </div>
+        <!--End Header Upper-->
 
+        <!-- Sticky Header  -->
         <div class="sticky-header">
             <div class="header-upper">
                 <div class="auto-container">
                     <div class="inner-container">
                         <!--Logo-->
                         <div class="logo-box">
-                            <div class="logo"><a href="index.html"><img src="assets/images/schedlogo.png" alt=""></a></div>
+                            <div class="logo"><a href="index.html"><img src="assets/images/klogo.png" alt=""></a></div>
                         </div>
                         <div class="right-column">
                             <!--Nav Box-->
@@ -122,7 +130,7 @@
             <div class="close-btn"><span class="icon flaticon-remove"></span></div>
             
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.html"><img src="assets/images/schedlogo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.html"><img src="assets/images/logo.png" alt="" title=""></a></div>
                 <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
 				<!--Social Links-->
 				<div class="social-links">
@@ -141,4 +149,5 @@
             <div class="cursor"></div>
             <div class="cursor-follower"></div>
         </div>
-</header>
+    </header>
+    <!-- End Main Header -->
