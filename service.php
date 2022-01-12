@@ -62,7 +62,7 @@
                 <div class="hidden-sidebar-close"><span class="flaticon-remove"></span></div>
                 <div class="text-widget sidebar-widget">
                     <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></div>
-                    <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresees the pain.</div>
+                    <div class="text">From will power is born.</div>
                 </div>
                 <!-- PDF Widget -->
                 <div class="pdf-widget sidebar-widget">
@@ -135,7 +135,7 @@
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title">Main Services</div>
-                <h2>Moving Your Products Across <br> All Borders</h2>
+                <h2>Offering the best catering services in <br> Remote sites</h2>
             </div>
    
         </div>
@@ -143,8 +143,8 @@
     <div class="container pb-5">
         <div class="row">
             <div class="col-md-12 text-center">
-                <p><b>we are one stop company to fulfill your sourcing of all your required products from China USA India Canada & UAE.</b></p>
-                <p>We give complete A to Z solution starting from product sourcing shipping delivery at your doorstep.   We specialize in all kinds of export import items from USA  CHINA INDIA CANADA UAE &  WORLDWIDE.</p>
+                <p><b>We work together enabling a safer world in whatever your field, our experts provide professional solutions to make your business more efficient.</b></b></p>
+                <p>We rely on teamwork, integrity, social responsibility, innovation and creativity, excellent customer service.</p>
             </div>
         </div>
     </div>
@@ -192,178 +192,13 @@
     <!-- boostrap ends -->
 
 
-    <!-- services php -->
-
-        <!--<section class="services-section style-two">
-        <div class="auto-container">
-            <div class="sec-title text-center">
-                <div class="sub-title">Main Services</div>
-                <h2>Moving Your Products Across <br> All Borders</h2>
-            </div>
-            <div class="row">
-                <div class="theme_carousel owl-theme owl-carousel">
-
-                    <?php
-                        while($row=mysqli_fetch_array($services)){
-                    ?>
-                    <div class="col-lg-12 service-block">
-                        <div class="inner-box">
-                            <div class="">
-                                <img src="assets/images/resource/image-12.jpg" alt="">
-                                <div class="content">
-                                    <div>
-                                       
-                                        <h4><?php echo $row['title']; ?></h4>
-                                    </div>            
-                                </div>
-                            </div>
-                           
-                            <div class="overlay" style="background-image: url(assets/images/resource/image-12-2.jpg);">
-                                <div>
-                                    <div class="content">
-                                        <div class="icon"><span class="flaticon-airplane"></span></div>
-                                        <h4><?php echo $row['title']; ?></h4>
-                                    </div>
-                                    <div class="text"><?php echo $row['short']; ?></div>
-                                    <div class="link"><a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-              
-                  <?php  } ?>
-                </div>
-            </div>
-            <div class="cta-section-two">
-                <div class="wrapper-box">
-                    <div class="icon"><img src="assets/images/resource/image-29.jpg" alt=""></div>
-                    <div class="text">
-                        <h4>Our Effective and Affordable Pricing Plans</h4>
-                        <p>we assure you a super affordable price with word class services.</p>
-                    </div>
-                    <div class="link">
-                        <a href="contact.php" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Enquire Now</span></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
-        <!-- services php ends -->
-
-    <!-- Services Section -->
-   <!-- <section class="services-section style-two">
-        <div class="auto-container">
-            <div class="sec-title text-center">
-                <div class="sub-title">Main Services</div>
-                <h2>Moving Your Products Across <br> All Borders</h2>
-            </div>
-            <div class="row">
-                <div class="theme_carousel owl-theme owl-carousel" data-options='{"loop": true, "margin": 0, "autoheight":true, "lazyload":true, "nav": true, "dots": true, "autoplay": true, "autoplayTimeout": 6000, "smartSpeed": 1000, "responsive":{ "0" :{ "items": "1" }, "600" :{ "items" : "1" }, "768" :{ "items" : "2" } , "992":{ "items" : "2" }, "1200":{ "items" : "3" }}}'>
-                    <div class="col-lg-12 service-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <img src="assets/images/resource/image-12.jpg" alt="">
-                                <div class="content">
-                                    <div>
-                                        <div class="icon"><span class="flaticon-airplane"></span></div>
-                                        <h4>Air Freight</h4>
-                                    </div>            
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="text">Indignation and dislike men who <br> are so beguiled all demoralized by the <br>that all charms.</div>
-                                <div class="link"><a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
-                            </div>
-                            <div class="overlay" style="background-image: url(assets/images/resource/image-12-2.jpg);">
-                                <div>
-                                    <div class="content">
-                                        <div class="icon"><span class="flaticon-airplane"></span></div>
-                                        <h4>Air Freight</h4>
-                                    </div>
-                                    <div class="text">Indignation and dislike men who <br> are so beguiled all demoralized by the <br>that all charms.</div>
-                                    <div class="link"><a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12 service-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <img src="assets/images/resource/image-13.jpg" alt="">
-                                <div class="content">
-                                    <div>
-                                        <div class="icon"><span class="flaticon-cargo-ship"></span></div>
-                                        <h4>Ocean Freight</h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="text">Denouncing pleasure praising <br> pain was born and we will give you a <br>account of the system.</div>
-                                <div class="link"><a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
-                            </div>
-                            <div class="overlay" style="background-image: url(assets/images/resource/image-13-2.jpg);">
-                                <div>
-                                    <div class="content">
-                                        <div class="icon"><span class="flaticon-cargo-ship"></span></div>
-                                        <h4>Ocean Freight</h4>
-                                    </div>
-                                    <div class="text">Denouncing pleasure praising <br> pain was born and we will give you a <br>account of the system.</div>
-                                    <div class="link"><a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-12 service-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <img src="assets/images/resource/image-14.jpg" alt="">
-                                <div class="content">
-                                    <div>
-                                        <div class="icon"><span class="flaticon-airplane"></span></div>
-                                        <h4>Road Freight</h4>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="lower-content">
-                                <div class="text">Great explorer of the truth the <br> master-builder of human happiness no <br>because it is pleasure.</div>
-                                <div class="link"><a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
-                            </div>
-                            <div class="overlay" style="background-image: url(assets/images/resource/image-14-2.jpg);">
-                                <div>
-                                    <div class="content">
-                                        <div class="icon"><span class="flaticon-airplane"></span></div>
-                                        <h4>Road Freight</h4>
-                                    </div>
-                                    <div class="text">Great explorer of the truth the <br> master-builder of human happiness no <br>because it is pleasure.</div>
-                                    <div class="link"><a href="#" class="readmore-link"><i class="flaticon-up-arrow"></i>More Details</a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="cta-section-two">
-                <div class="wrapper-box">
-                    <div class="icon"><img src="assets/images/resource/image-29.jpg" alt=""></div>
-                    <div class="text">
-                        <h4>Our Effective and Affordable Pricing Plans</h4>
-                        <p>Explain to you how all this mistaken idea of denouncing pleasure.</p>
-                    </div>
-                    <div class="link">
-                        <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>Our Pricing</span></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
 
     <!-- Servcies section two -->
     <section class="services-section-two style-two mx-30">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title">Value Added Services</div>
-                <h2>Transida Offers Various Value Added <br>Services in Logisitcs</h2>
+                <h2>Schedanel Offers Various Value Added <br>Services in Logisitcs</h2>
             </div>
             <div class="row">
                 <div class="col-xl-6 service-block-two">
@@ -373,11 +208,9 @@
                             <div class="icon"><span class="flaticon-insurance"></span></div>
                         </div>
                         <div class="content">
-                            <h4>Cargo Insurance</h4>
+                            <h4>Freight Services</h4>
                             <div class="text">There anyone who loves or pursues or desires to obtain <br> pain of itself because it is pain but because occasionally <br> circumstances occur in which toil ...</div>
-                            <!--<div class="link">
-                                <a href="#" class="readmore-link"><span><i class="flaticon-up-arrow"></i>Read More</span></a>
-                            </div> -->
+                         
                         </div>
                     </div>
                 </div>
@@ -388,7 +221,7 @@
                             <div class="icon"><span class="flaticon-import"></span></div>
                         </div>
                         <div class="content">
-                            <h4>Customs Clearance</h4>
+                            <h4>Supply chain</h4>
                             <div class="text">Blinded by desire, that they cannot foresee the pain and <br>trouble that are bound to ensue; and equal blame belongs <br>those who fail in their duty shrinking ...</div>
                             <!--<div class="link">
                                 <a href="#" class="readmore-link"><span><i class="flaticon-up-arrow"></i>Read More</span></a>

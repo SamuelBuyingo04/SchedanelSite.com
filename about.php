@@ -54,7 +54,7 @@
                 <div class="hidden-sidebar-close"><span class="flaticon-remove"></span></div>
                 <div class="text-widget sidebar-widget">
                     <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></div>
-                    <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresees the pain.</div>
+                    <div class="text">From will, power is born!</div>
                 </div>
                 <!-- PDF Widget -->
                 <div class="pdf-widget sidebar-widget">
@@ -164,7 +164,7 @@
                                 <!--<div class="video-btn">
                                     <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="overlay-link lightbox-image video-fancybox"><i class="flaticon-play-arrow"></i></a>
                                 </div>-->
-                                <div class="signature"><img src="assets/images/sign.PNG" alt=""></div>
+                                <div class="signature"><img src="assets/images/sign.png" alt=""></div>
                                 <div>
                                     <div class="author-title">Victor M. Hatoka </div>
                                     <div class="designation">CEO & Founder of Schedanel Global </div>
@@ -230,48 +230,7 @@
     </section>
 
      <!-- Whychooseus section four -->
-   <!-- <section class="whychooseus-section-four" style="background-image: url(assets/images/background/bg-23.jpg);">
-        <div class="auto-container">
-            <div class="sec-title light text-center">
-                <div class="sub-title">Why Choose Us</div>
-                <h2> Reasons Why to Choose Our <br> Freight Services</h2>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-shield"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>Trasparent Pricing</h4>
-                     
-                        <div class="count">01</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-delivery"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>On - Time Delivery</h4>
-                        
-                        <div class="count">02</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-box"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>Real Time Tracking</h4>
-                     
-                        <div class="count">03</div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 whychooseus-block-four">
-                    <div class="inner-box wow fadeInUp animated" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-name: fadeInUp;">
-                        <div class="icon"><span class="flaticon-24-hours"></span><i class="fas fa-check"></i><a href="#"><i class="fas fa-check"></i>Read More</a></div>
-                        <h4>24/7 Online Support</h4>
-                       
-                        <div class="count">04</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
+ 
 
 
     <!-- Statement -->

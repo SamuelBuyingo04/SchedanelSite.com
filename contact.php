@@ -54,7 +54,7 @@
                 <div class="hidden-sidebar-close"><span class="flaticon-remove"></span></div>
                 <div class="text-widget sidebar-widget">
                     <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></div>
-                    <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresees the pain.</div>
+                    <div class="text">From will, power is born!</div>
                 </div>
                 <!-- PDF Widget -->
                 <div class="pdf-widget sidebar-widget">
@@ -77,15 +77,15 @@
                 <div class="contact-widget">
                     <div class="icon-box">
                         <div class="icon"><span class="flaticon-cursor"></span></div>
-                        <div class="text">Boat House, 152/21 City Road, <br> Hoxton, N1 6NG, UK.</div>
+                        <div class="text">Luwafu, Makindye-Division, Kampala City, <br>Uganda</div>
                     </div>
                     <div class="icon-box">
                         <div class="icon"><span class="flaticon-calling"></span></div>
-                        <div class="text"><strong>Phone</strong><a href="tel:(+61)3245689790"><?php $setting['map']; ?></a></div>
+                        <div class="text"><strong>Phone</strong><a href="tel:(+256) 704 368 743"><?php $setting['map']; ?></a></div>
                     </div>
                     <div class="icon-box">
                         <div class="icon"><span class="flaticon-mail"></span></div>
-                        <div class="text"><strong>Email</strong><a href="tel:(+61)32456789790">supportyou@transida.com</a></div>
+                        <div class="text"><strong>Email</strong><a href="schedanelglobal@gmail.com">supportyou@sched.com</a></div>
                     </div>
                 </div>
                 <!-- Link Btn -->
@@ -170,7 +170,7 @@
                         <div class="col-lg-6">
                             <div class="sec-title">
                                 <div class="sub-title">Get a Quote</div>
-                                <h2>Start Your Shipping</h2>
+                                <h2>Start Your Order</h2>
                             </div>
                             <!--<div class="text">Indignation and dislike men who are so beguiled & demoralized by <br> the charms of pleasure of the moment.</div>
                             <div class="link">-->
