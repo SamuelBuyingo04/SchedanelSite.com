@@ -97,7 +97,7 @@
                     <div class="inner-container">
                         <!--Logo-->
                         <div class="logo-box">
-                            <div class="logo"><a href="index.html"><img src="assets/images/klogo.png" alt=""></a></div>
+                            <div class="logo"><a href="index.html"><img src="assets/images/klogo4.png" alt=""></a></div>
                         </div>
                         <div class="right-column">
                             <!--Nav Box-->

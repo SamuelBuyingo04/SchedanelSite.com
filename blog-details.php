@@ -70,7 +70,7 @@
                 <div class="hidden-sidebar-close"><span class="flaticon-remove"></span></div>
                 <div class="text-widget sidebar-widget">
                     <div class="logo"><a href="index.php"><img src="assets/images/logo.png" alt=""></a></div>
-                    <div class="text">Demoralized by the charms of pleasure of the moment so blinded by desire that they cannot foresees the pain.</div>
+                    <div class="text">From will, power is born!</div>
                 </div>
                 <!-- PDF Widget -->
                 <div class="pdf-widget sidebar-widget">
@@ -272,16 +272,16 @@
                         <div class="widget tag-cloud-widget">
                             <h4 class="widget_title">Tag Cloud</h4>
                             <ul class="clearfix">
-                                <li><a href="#">Cargo</a></li>
+                                <li><a href="#">Catering</a></li>
+                                <li><a href="#">Parcel</a></li>
                                 <li><a href="#">Contact</a></li>
                                 <li><a href="#">Ground</a></li>
                                 <li><a href="#">Management</a></li>
-                                <li><a href="#">Ocean</a></li>
+                                <li><a href="#">Freight-forwarding</a></li>
                                 <li><a href="#">Offers</a></li>
                                 <li><a href="#">Safety</a></li>
-                                <li><a href="#">Shipment</a></li>
-                                <li><a href="#">Transportation</a></li>
-                                <li><a href="#">Warehouse</a></li>
+                                <li><a href="#">Supply chain</a></li>
+                                <li><a href="#">Camp management</a></li>
                             </ul>
                         </div>
                         <!-- Advertisement Widget -->

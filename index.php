@@ -14,7 +14,7 @@
 
 
      //fetch services
-    $services = mysqli_query($con,"SELECT * FROM services ORDER BY id DESC LIMIT 3");
+    $services = mysqli_query($con,"SELECT * FROM services ORDER BY id DESC LIMIT 4");
 
 ?>
 
@@ -139,7 +139,7 @@
         <div class="swiper-container banner-slider">
             <div class="swiper-wrapper">
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-1.jpg);">
+                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-1.png);">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner text-center">
@@ -160,7 +160,7 @@
                             <div class="inner text-center">
                                 <h4>Your logistic partner </h4>
                                 <h1>enable supply chain</h1>
-                                <div class="text">To give the best import/export services in the supply chain.</div>
+                                <div class="text">To give the best freight and logistics services in the supply chain.</div>
                                 <div class="link-box">
                                     <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
                                 </div>
@@ -194,7 +194,7 @@
 
     <!-- Services Section -->
     <!-- serivice from here -->
-         <section class="services-section style-two ">
+    <section class="services-section style-two ">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <div class="sub-title">Main Services</div>
@@ -250,6 +250,7 @@
     <!-- About Section -->
     <section class="about-section" style="background-image: url(assets/images/background/bg-1.jpg);">
         <div class="auto-container">
+            
             <div class="row">
                 <div class="col-lg-6">
                     <div class="sec-title">
@@ -263,7 +264,7 @@
                             <div class="icon-box wow fadeInUp" data-wow-duration="1500ms">
                                 <div class="icon"><span class="flaticon-package"></span></div>
                                 <div class="content">
-                                    <span><h4>Catering services</h4></span>
+                                    <span><h4><a href="single-service.php?id=37">Catering services</a></h4></span>
                                 </div>
                             </div>
                         </div>
@@ -271,7 +272,7 @@
                             <div class="icon-box wow fadeInUp" data-wow-duration="1500ms">
                                 <div class="icon"><span class="flaticon-goal"></span></div>
                                 <div class="content">
-                                    <span><h4>Supply chain</h4></span>
+                                    <span><h4><a href="single-service.php?id=36">Supply chain</a></h4></span>
                                     
                                 </div>
                             </div>
@@ -280,7 +281,7 @@
                             <div class="icon-box wow fadeInUp" data-wow-duration="1700ms">
                                 <div class="icon"><span class="flaticon-binoculars"></span></div>
                                 <div class="content">
-                                    <span><h4>Management support</h4></span>
+                                    <span><h4><a href="single-service.php?id=38">Construction</a></h4></span>
                                 </div>
                             </div>
                         </div>
@@ -288,7 +289,7 @@
                             <div class="icon-box wow fadeInUp" data-wow-duration="1900ms">
                                 <div class="icon"><span class="flaticon-gold"></span></div>
                                 <div class="content">
-                                    <span><h4>Camp managemnet</h4></span>
+                                    <span><h4><a href="single-service.php?id=39">Camp managemnet</a></h4></span>
                                 </div>
                             </div>
                         </div>

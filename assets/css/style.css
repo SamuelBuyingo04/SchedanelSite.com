@@ -1547,7 +1547,7 @@ img {
 .fixed-header .sticky-header .search-toggler {
     color: #222;
     background: transparent;
-    font-size: 20px;
+    font-size: 14px;
 }
 
 .main-header .sticky-header .header-upper .logo-box .logo {
@@ -2797,7 +2797,7 @@ img {
 
 .services-section {
     position: relative;
-    padding: 120px 0 90px;
+    padding: 100px 0 70px;
     ;
 }
 
@@ -11872,7 +11872,7 @@ section.whychooseus-section-two {
     left: 0;
     top: 0;
     right: 0;
-    height: 623px;
+    height: 423px;
     background-color: #fff;
 }
 
