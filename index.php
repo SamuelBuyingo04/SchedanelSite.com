@@ -272,7 +272,7 @@
                             <div class="icon-box wow fadeInUp" data-wow-duration="1500ms">
                                 <div class="icon"><span class="flaticon-goal"></span></div>
                                 <div class="content">
-                                    <span><h4><a href="single-service.php?id=36">Supply chain</a></h4></span>
+                                    <span><h4><a href="single-service.php?id=36">Freight Services <br> Supply chain</a></h4></span>
                                     
                                 </div>
                             </div>
@@ -362,23 +362,23 @@
                 <div class="col-lg-3 col-md-6 work-process-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="count">01</div>
-                        <div class="icon"><span class="flaticon-shipping"></span></div>
-                        <h4>Managemnet <br> Support</h4>
+                        <div class="icon"><a href="single-service.php?id=38"><span class="flaticon-shipping"></a></span></div>
+                        <h4>Construction</h4>
                         
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 work-process-block">
                     <div class="inner-box wow fadeInDwon" data-wow-duration="1500ms">
                         <div class="count">02</div>
-                        <div class="icon"><span class="flaticon-warehouse"></span></div>
-                        <h4>Camp <br> Management</h4>
+                        <div class="icon"><a href="single-service.php?id=39"><span class="flaticon-warehouse"></a></span></div>
+                        <h4> House Keeping and <br> Camp Management</h4>
                         
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 work-process-block">
                     <div class="inner-box wow fadeInUp" data-wow-duration="1500ms">
                         <div class="count">03</div>
-                        <div class="icon"><span class="flaticon-packing-list"></span></div>
+                        <div class="icon"><a href="single-service.php?id=37"><span class="flaticon-packing-list"></a></span></div>
                         <h4>Catering in <br> Remote Site</h4>
                        
                     </div>
@@ -386,8 +386,8 @@
                 <div class="col-lg-3 col-md-6 work-process-block">
                     <div class="inner-box wow fadeInDown" data-wow-duration="1500ms">
                         <div class="count">04</div>
-                        <div class="icon"><span class="flaticon-delivery-1"></span></div>
-                        <h4>Logistcs <br> Supply Chain</h4>
+                        <div class="icon"><a href="single-service.php?id=36"><span class="flaticon-delivery-1"></a></span></div>
+                        <h4>Freight Services <br> Supply Chain</h4>
                         
                     </div>
                 </div>

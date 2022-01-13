@@ -85,6 +85,28 @@
               </p>
             </a>
           </li> 
+
+      <li class="nav-item has-treeview menu-open">
+            <h5 class="pt-2 pb-2" style="color:white;">PACKAGE</h5>
+			</li>
+		  
+		   <li class="nav-item has-treeview menu-open">
+            <a href="add-package.php" class="nav-link <?php if($a==9){ echo 'active'; }?>">
+               <i class="fa fa-plus nav-icon"></i>
+              <p>
+                Add Package
+              </p>
+            </a>
+          </li> 
+		  <li class="nav-item has-treeview menu-open">
+            <a href="view-package.php" class="nav-link <?php if($a==7){ echo 'active'; }?>">
+               <i class="fa fa-plus nav-icon"></i>
+              <p>
+                View Package
+              </p>
+            </a>
+          </li> 
+
 		  <li class="nav-item has-treeview menu-open">
             <h5 class="pt-2 pb-2" style="color:white;">OTHER OPTIONS</h5>
 			</li>
@@ -102,6 +124,14 @@
                <i class="fa fa-plus nav-icon"></i>
               <p>
                 FAQ
+              </p>
+            </a>
+          </li>
+          <li class="nav-item has-treeview menu-open">
+            <a href="password-reset.php" class="nav-link <?php if($a==2){ echo 'active'; }?>">
+              <i class="nav-icon fa fa-cog"></i>
+              <p>
+                Reset Password
               </p>
             </a>
           </li>
