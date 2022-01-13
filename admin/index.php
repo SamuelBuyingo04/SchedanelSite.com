@@ -80,6 +80,59 @@ $a=1;
               </div>
              </div>
 			</a>
+
+      <a href="add-teams.php" class="small-box-footer">
+            <div class="small-box bg-warning">
+              <div class="inner">
+                <h3> Add Teams</h3>
+
+                <p>Add</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-person-add"></i>
+              </div>
+             </div>
+			</a>
+
+      <a href="add-package.php" class="small-box-footer">
+            <div class="small-box bg-warning">
+              <div class="inner">
+                <h3> Add Package</h3>
+
+                <p>Add</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-person-add"></i>
+              </div>
+             </div>
+			</a>
+
+      <a href="add-services.php" class="small-box-footer">
+            <div class="small-box bg-warning">
+              <div class="inner">
+                <h3> Add Services</h3>
+
+                <p>Add</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-person-add"></i>
+              </div>
+             </div>
+			</a>
+
+      <a href="add-testimonials.php" class="small-box-footer">
+            <div class="small-box bg-warning">
+              <div class="inner">
+                <h3> Add Testimonials</h3>
+
+                <p>Add</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-person-add"></i>
+              </div>
+             </div>
+			</a>
+
           </div>
           <!-- ./col -->
           <div class="col-lg-3 col-6">
@@ -88,6 +141,58 @@ $a=1;
             <div class="small-box bg-danger">
               <div class="inner">
                 <h3>View Blog</h3>
+
+                <p>View</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-pie-graph"></i>
+              </div>
+             </div>
+			</a>
+
+      <a href="view-teams.php" class="small-box-footer">
+            <div class="small-box bg-danger">
+              <div class="inner">
+                <h3>View Teams</h3>
+
+                <p>View</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-pie-graph"></i>
+              </div>
+             </div>
+			</a>
+
+      <a href="view-package.php" class="small-box-footer">
+            <div class="small-box bg-danger">
+              <div class="inner">
+                <h3>View Package</h3>
+
+                <p>View</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-pie-graph"></i>
+              </div>
+             </div>
+			</a>
+
+      <a href="view-services.php" class="small-box-footer">
+            <div class="small-box bg-danger">
+              <div class="inner">
+                <h3>View Services</h3>
+
+                <p>View</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-pie-graph"></i>
+              </div>
+             </div>
+			</a>
+
+      <a href="view-testimonials.php" class="small-box-footer">
+            <div class="small-box bg-danger">
+              <div class="inner">
+                <h3>View Testimonials</h3>
 
                 <p>View</p>
               </div>
