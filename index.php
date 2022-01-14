@@ -169,7 +169,7 @@
                     </div>
                 </div>
                  <!-- Slide Item -->
-                 <div class="swiper-slide" style="background-image: url(assets/images/main-slider/construction_slider.jpg);">
+                 <div class="swiper-slide" style="background-image: url(assets/images/main-slider/construction_slider.jpeg);">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner text-center">
