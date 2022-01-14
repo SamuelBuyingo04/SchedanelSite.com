@@ -24,7 +24,7 @@
 
 <head>
 <meta charset="utf-8">
-<title><?php echo $setting['site_name']; ?> SDAGSite</title>
+<title><?php echo $setting['site_name']; ?> | SDAGSite</title>
 <meta name="description" content="We Offer Import & Export assistance foreign businesses in supplying their products in Congo, Uganda.">
 <!-- Stylesheets -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -147,14 +147,14 @@
                                 <h1>safety & Health</h1>
                                 <div class="text">We offer the best catering service in remote site.</div>
                                 <div class="link-box">
-                                    <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
+                                    <a href="single-service.php?id=37" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-2.jpg);">
+                <div class="swiper-slide" style="background-image: url(assets/images/main-slider/image-5.jpg);">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner text-center">
@@ -162,9 +162,24 @@
                                 <h1>enable supply chain</h1>
                                 <div class="text">To give the best freight and logistics services in the supply chain.</div>
                                 <div class="link-box">
-                                    <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
+                                    <a href="single-service.php?id=36" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
                                 </div>
                             </div>                               
+                        </div>
+                    </div>
+                </div>
+                 <!-- Slide Item -->
+                 <div class="swiper-slide" style="background-image: url(assets/images/main-slider/construction_slider.jpg);">
+                    <div class="content-outer">
+                        <div class="content-box">
+                            <div class="inner text-center">
+                                <h4>It's now happening</h4>
+                                <h1>Construction</h1>
+                                <div class="text">We transform your house into a beautiful home</div>
+                                <div class="link-box">
+                                    <a href="single-service.php?id=38" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
+                                </div>
+                            </div>                       
                         </div>
                     </div>
                 </div>
@@ -177,7 +192,7 @@
                                 <h1>Management support</h1>
                                 <div class="text">Right to find fault with a man who chooses to enjoy a pleasure.</div>
                                 <div class="link-box">
-                                    <a href="#" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
+                                    <a href="single-service.php?id=39" class="theme-btn btn-style-one"><span><i class="flaticon-up-arrow"></i>More Details </span></a>
                                 </div>
                             </div>                       
                         </div>
