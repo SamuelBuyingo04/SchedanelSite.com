@@ -274,7 +274,7 @@
                                         <div class="sub-title">Statements</div>
                                         <h2>Philosophy Statement</h2>
                                     </div>
-                                    <div class="text">Success is the result of perfection, hard work, learning from failure, loyalty to those who we work for and persistence.“From will power is born.”</div>
+                                    <div class="text">Success is the result of perfection, hard work, learning from failure, loyalty to those who we work for and persistence.<strong>“From will power is born."</strong></div>
                                 </div>
                             </div>
                         </div>
